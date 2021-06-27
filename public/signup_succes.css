@@ -1,0 +1,24 @@
+*{
+    margin-top: 40px;
+    padding: 0;
+    background-color: black !important;
+    color: blanchedalmond ;
+
+}
+.h1{
+    /* align-items: center;
+    justify-content: center; */
+    font-size: 40px;
+    font-family: cursive;
+    
+}
+.btn{
+    padding: 5px;
+    background-color: white !important;
+    color: black !important;
+    margin-left: 220px !important;
+    margin-top: 15px !important;
+}
+.btn:hover{
+    background-color: rgb(202, 197, 197) !important;
+}
